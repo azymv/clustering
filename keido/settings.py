@@ -121,5 +121,3 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
-
-GEOPOSITION_GOOGLE_MAPS_API_KEY = 'AIzaSyDtqmXTsWo0KPlcVXr-T67sPftH3mrkSPU'
